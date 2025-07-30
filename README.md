@@ -1,1 +1,2 @@
 # CalaculatorApplication
+The Calculator Challenge My internship commenced with a captivating challenge - constructing a fully functional calculator. This task necessitated a fusion of HTML, CSS, and JavaScript to create a user-friendly interface for basic arithmetic operations. This endeavor not only honed my coding skills but also instilled in me a sense of precision and attention to detail, laying a robust foundation for the subsequent tasks.
